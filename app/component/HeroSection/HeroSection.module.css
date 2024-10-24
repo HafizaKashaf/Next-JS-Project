@@ -1,0 +1,22 @@
+.hero {
+    background-image: url('/path/to/your/hero-image.jpg'); /* Add your hero image path */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+  }
+  
+  .heroButton {
+    padding: 10px 20px;
+    background-color: #ff6347; /* Tomato color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .heroButton:hover {
+    background-color: #d9534f; /* Darker shade for hover */
+  }

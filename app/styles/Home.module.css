@@ -1,0 +1,19 @@
+/* Home.module.css */
+.container {
+    text-align: center;
+    padding: 86px;
+    margin: auto;
+  }
+  
+  .ctaButton {
+    background-color: #0070f3;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .ctaButton:hover {
+    background-color: #005bb5;
+  }
