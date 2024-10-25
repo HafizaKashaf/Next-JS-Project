@@ -18,7 +18,7 @@ const ContactPage:React.FC = () => {
     <div className='min-h-0 bg-cover  bg-[url(https://www.shutterstock.com/image-photo/various-running-shoes-laid-on-260nw-275137631.jpg)] p-5'>
     <div className={styles.container}>
       <h1 className='bg-yellow-500 p-2 font-bold' >Contact Us </h1>
-      <p className='text-yellow-500'>Have questions about our shoes? We'd love to hear from you!</p>
+      <p className='text-yellow-500'>Have questions about our shoes? We had love to hear from you!</p>
       <form 
       onSubmit={handleSubmit}>
         <input className={styles.input}
